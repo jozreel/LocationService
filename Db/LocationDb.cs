@@ -23,7 +23,7 @@ public class LocationDb
                 type = fields[3]
             };
 
-            if(loc.open.Hour >= from && (loc.open.Hour < to || loc.open.Hour == to && loc.open.Minute == 0 ) ) {
+            if(loc.close.Hour >= from && (loc.open.Hour < to || loc.open.Hour == to && loc.open.Minute == 0 ) ) {
                  res.Add(loc);
             }
             }

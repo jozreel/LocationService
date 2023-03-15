@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/jozreel/DEV/FrontEnd/LocationService/LocationService.csproj": {}
+    "C:\\Dev\\LocationService\\LocationService.csproj": {}
   },
   "projects": {
-    "/home/jozreel/DEV/FrontEnd/LocationService/LocationService.csproj": {
+    "C:\\Dev\\LocationService\\LocationService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/jozreel/DEV/FrontEnd/LocationService/LocationService.csproj",
+        "projectUniqueName": "C:\\Dev\\LocationService\\LocationService.csproj",
         "projectName": "LocationService",
-        "projectPath": "/home/jozreel/DEV/FrontEnd/LocationService/LocationService.csproj",
-        "packagesPath": "/home/jozreel/.nuget/packages/",
-        "outputPath": "/home/jozreel/DEV/FrontEnd/LocationService/obj/",
+        "projectPath": "C:\\Dev\\LocationService\\LocationService.csproj",
+        "packagesPath": "C:\\Users\\jlaurent\\.nuget\\packages\\",
+        "outputPath": "C:\\Dev\\LocationService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/jozreel/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\jlaurent\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -66,7 +66,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
